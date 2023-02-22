@@ -1,0 +1,27 @@
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.location__container {
+    margin: 4rem;
+    width: 100vh;
+    height: 80px;
+    background-color: #062226;  
+    border-radius: 0.2em;
+}
+.location__li {
+    padding: 1rem;
+}
+
+.location__list {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.location__title {
+    font-size: 1.2rem;
+}

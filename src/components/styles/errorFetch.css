@@ -1,0 +1,7 @@
+.errorfetch {
+    text-align: center;
+    position: relative;
+    top: 7rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}

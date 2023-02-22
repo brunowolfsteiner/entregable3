@@ -1,0 +1,32 @@
+.residents-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    max-width: 1480px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+
+.header__fondo {
+    background-image: url("../public/header.png");
+    background-repeat: no-repeat;
+    background-size: cover;  
+    margin-bottom: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo__img {
+    width: 50%;
+}
